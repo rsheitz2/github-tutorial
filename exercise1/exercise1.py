@@ -7,3 +7,9 @@ def print_art():
     print ("ccc")
     print ("dddd")
     print ("eeeee")
+
+def hi_fellow(str_input="I am an Insight Fellow"):
+    if str_input == "I am an Insight Fellow":
+        print ("That's awesome")
+    else:
+        print ("go away nobody")
